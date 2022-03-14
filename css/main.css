@@ -1,0 +1,24 @@
+header{
+  position: fixed;
+  width: 100%;
+  background-color: #fff;
+  opacity: 0.9;
+  padding: 10px 0;
+}
+
+.logo{
+  width: 150px;
+  object-fit: cover;
+}
+
+.list{
+  padding-top: 130px !important;
+}
+
+li{
+  width: 250px;
+}
+
+.header__link:hover{
+  color: crimson;
+}
